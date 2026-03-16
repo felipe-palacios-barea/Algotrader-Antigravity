@@ -1,0 +1,1591 @@
+﻿Published,Traded,Filing Time,Investor Name,Party,Chamber,State,Stock,Ticker,Operation,Low Amount,High Amount,Price,probability,comment
+2025-06-19,2025-06-01,18,Mitch McConnell,Republican,Senate,KY,Wells Fargo & Co,WFC,buy,1000.0,15000.0,,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Mitch McConnell may have some influence over financial regulations, there is no direct evidence of a strong relationship with Wells Fargo (WFC) specifically.""
+}
+```"
+2025-06-19,2025-06-06,13,Marjorie Taylor Greene,Republican,House,GA,Adobe Inc,ADBE,buy,1000.0,15000.0,416.92,,"```json
+{
+  ""probability"": 0.1,
+  ""comment"": ""There is little to no known relationship between Marjorie Taylor Greene and Adobe (ADBE), as her political focus does not typically align with the tech industry.""
+}
+```"
+2025-06-19,2025-06-06,13,Marjorie Taylor Greene,Republican,House,GA,Applied Materials Inc,AMAT,buy,1000.0,15000.0,166.74,,"```json
+{
+  ""probability"": 0.2,
+  ""comment"": ""There is limited public information linking Marjorie Taylor Greene directly to AMAT, suggesting a low likelihood of a relationship.""
+}
+```"
+2025-06-19,2025-06-06,13,Marjorie Taylor Greene,Republican,House,GA,Gilead Sciences Inc,GILD,buy,1000.0,15000.0,112.46,,"```json
+{
+  ""probability"": 0.2,
+  ""comment"": ""There is limited public information linking Marjorie Taylor Greene directly to Gilead Sciences (GILD), suggesting a low likelihood of a significant relationship.""
+}
+```"
+2025-06-19,2025-06-06,13,Marjorie Taylor Greene,Republican,House,GA,Netflix Inc,NFLX,buy,1000.0,15000.0,"1,241.47",,"```json
+{
+  ""probability"": 0.1,
+  ""comment"": ""There is minimal likelihood of a direct relationship between Marjorie Taylor Greene and NFLX, as her political focus does not prominently align with the entertainment industry.""
+}
+```"
+2025-06-19,2025-06-06,13,Marjorie Taylor Greene,Republican,House,GA,NextEra Energy Inc,NEE,buy,1000.0,15000.0,72.16,,"```json
+{
+  ""probability"": 0.2,
+  ""comment"": ""There is a low likelihood of a direct relationship between Marjorie Taylor Greene and the stock ticker NEE, as no specific committee or subcommittee involvement is indicated.""
+}
+```"
+2025-06-19,2025-06-06,13,Marjorie Taylor Greene,Republican,House,GA,ServiceNow Inc,NOW,buy,1000.0,15000.0,"1,030.21",,"```json
+{
+  ""probability"": 0.2,
+  ""comment"": ""There is limited public information linking Marjorie Taylor Greene directly to the stock ticker NOW, suggesting a low likelihood of a relationship.""
+}
+```"
+2025-06-19,2025-06-06,13,Marjorie Taylor Greene,Republican,House,GA,Snowflake Inc,SNOW,buy,1000.0,15000.0,210.84,,"```json
+{
+  ""probability"": 0.1,
+  ""comment"": ""There is no known direct relationship between Marjorie Taylor Greene and the stock ticker SNOW, which represents Snowflake Inc., as her committee assignments do not typically intersect with the tech industry.""
+}
+```"
+2025-06-19,2025-06-12,7,Marjorie Taylor Greene,Republican,House,GA,US TREASURY BILLS,,buy,100000.0,250000.0,,,"```json
+{
+  ""probability"": 0.1,
+  ""comment"": ""There is no specific information linking Marjorie Taylor Greene to any stock or committee, resulting in a low likelihood of a relationship.""
+}
+```"
+2025-06-19,2025-06-04,15,Kelly Morrison,Democrat,House,MN,Houlihan Lokey Inc,HLI,sell,1000.0,15000.0,174.02,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""There is a low likelihood of a relationship between Congress member Kelly Morrison and stock ticker HLI, as no specific committee or subcommittee involvement is provided to suggest a direct connection.""
+}
+```"
+2025-06-19,2025-06-04,15,Kelly Morrison,Democrat,House,MN,Nike Inc,NKE,sell,1000.0,15000.0,62.77,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Kelly Morrison may have some level of interest in Nike (NKE) due to her role in Congress, there is no direct evidence of a significant relationship or influence on the company.""
+}
+```"
+2025-06-19,2025-06-04,15,Kelly Morrison,Democrat,House,MN,Resmed Inc,RMD,sell,1000.0,15000.0,249.94,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Kelly Morrison may have some connection to the stock ticker RMD, without specific committee or subcommittee information, the likelihood of a direct relationship remains low.""
+}
+```"
+2025-06-19,2025-06-04,15,Kelly Morrison,Democrat,House,MN,United Parcel Service Inc,UPS,sell,1000.0,15000.0,98.55,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Kelly Morrison may have some level of interest in UPS due to her congressional role, there is no direct evidence of a significant relationship between her and the company.""
+}
+```"
+2025-06-19,2025-06-04,15,Kelly Morrison,Democrat,House,MN,WEX Inc,WEX,sell,1000.0,15000.0,138.28,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""There is limited information available regarding Kelly Morrison's specific involvement with WEX, making a direct relationship uncertain.""
+}
+```"
+2025-06-19,2025-06-04,15,Kelly Morrison,Democrat,House,MN,Zebra Technologies Corp,ZBRA,sell,1000.0,15000.0,291.03,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""There is a low likelihood of a relationship between Congress member Kelly Morrison and stock ticker ZBRA, as no specific committee or subcommittee involvement is provided to suggest a direct connection.""
+}
+```"
+2025-06-19,2025-06-04,15,Kelly Morrison,Democrat,House,MN,Zebra Technologies Corp,ZBRA,sell,15000.0,50000.0,291.03,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""There is a low likelihood of a relationship between Congress member Kelly Morrison and stock ticker ZBRA, as no direct committee or subcommittee involvement is specified.""
+}
+```"
+2025-06-19,2025-05-16,34,Rick Allen,Republican,House,GA,Netflix Inc,NFLX,buy,15000.0,50000.0,"1,191.53",,"```json
+{
+  ""probability"": 0.2,
+  ""comment"": ""There is a low likelihood of a direct relationship between Congress member Rick Allen and the stock ticker NFLX, as no specific committee or subcommittee involvement is indicated.""
+}
+```"
+2025-06-19,2025-05-16,34,Rick Allen,Republican,House,GA,Thermo Fisher Scientific Inc,TMO,sell,15000.0,50000.0,412.06,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Rick Allen may have some level of interaction with TMO (Thermo Fisher Scientific), there is no direct evidence of a strong relationship based on available data.""
+}
+```"
+2025-06-19,2025-05-16,34,Rick Allen,Republican,House,GA,US TREASURY BILLS,,buy,1000.0,15000.0,,,"```json
+{
+  ""probability"": 0.1,
+  ""comment"": ""Without specific stock ticker information or committee details, the likelihood of a relationship is low.""
+}
+```"
+2025-06-18,2025-05-08,41,Jerry Moran,Republican,Senate,KS,Alphabet Inc,GOOGL,buy,1000.0,15000.0,155.75,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Jerry Moran is a member of Congress, there is no direct evidence of a significant relationship with GOOGL, making the likelihood relatively low.""
+}
+```"
+2025-06-18,2025-05-08,41,Thomas Kean Jr,Republican,House,NJ,Amazon.com Inc,AMZN,buy,1000.0,15000.0,192.08,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Thomas Kean Jr. may have some level of interaction with Amazon (AMZN) through legislative activities, there is no direct evidence of a strong relationship or significant involvement with the company.""
+}
+```"
+2025-06-18,2025-05-27,22,Thomas Kean Jr,Republican,House,NJ,Aon PLC,AON,buy,1000.0,15000.0,365.06,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Thomas Kean Jr. may have some level of interaction with AON, there is no direct evidence of a significant relationship between him and the company.""
+}
+```"
+2025-06-18,2025-05-13,36,Thomas Kean Jr,Republican,House,NJ,Becton Dickinson and Co,BDX,buy,1000.0,15000.0,175.34,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Thomas Kean Jr. may have some level of interaction with BDX, there is no direct evidence of a significant relationship between him and the company or its activities.""
+}
+```"
+2025-06-18,2025-05-08,41,Thomas Kean Jr,Republican,House,NJ,Crown Holdings Inc,CCK,sell,1000.0,15000.0,97.33,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Thomas Kean Jr. may have some level of interest in companies like CCK, there is insufficient public information to establish a strong relationship between him and the stock.""
+}
+```"
+2025-06-18,2025-05-05,44,Thomas Kean Jr,Republican,House,NJ,Thermo Fisher Scientific Inc,TMO,buy,1000.0,15000.0,422.27,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Thomas Kean Jr. may have some level of interaction with companies like Thermo Fisher Scientific (TMO), there is no direct evidence of a significant relationship between him and the stock ticker.""
+}
+```"
+2025-06-16,2025-05-02,45,Tim Moore,Republican,House,NC,American Airlines Group Inc,AAL,sell,250000.0,500000.0,10.52,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Tim Moore may have some connection to AAL (American Airlines Group), without specific committee or subcommittee information, the likelihood of a direct relationship remains low.""
+}
+```"
+2025-06-16,2025-05-22,25,Tim Moore,Republican,House,NC,DIREXION DAILY SMALL CAP BULL 3X ETF,TNA,buy,15000.0,50000.0,,,"```json
+{
+  ""probability"": 0.2,
+  ""comment"": ""There is limited information connecting Tim Moore to the stock ticker TNA, suggesting a low likelihood of a direct relationship.""
+}
+```"
+2025-06-16,2025-05-27,20,Tim Moore,Republican,House,NC,DIREXION DAILY SMALL CAP BULL 3X ETF,TNA,buy,15000.0,50000.0,,,"```json
+{
+  ""probability"": 0.2,
+  ""comment"": ""There is limited information connecting Tim Moore to the stock ticker TNA, suggesting a low likelihood of a direct relationship.""
+}
+```"
+2025-06-16,2025-05-02,45,Tim Moore,Republican,House,NC,Global X NASDAQ-100 Covered Call ETF,QYLD,sell,15000.0,50000.0,16.37,,"```json
+{
+  ""probability"": 0.2,
+  ""comment"": ""There is limited information connecting Tim Moore to QYLD, suggesting a low likelihood of a direct relationship.""
+}
+```"
+2025-06-16,2025-05-14,33,Tim Moore,Republican,House,NC,Harley-Davidson Inc,HOG,sell,50000.0,100000.0,24.92,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Tim Moore may have some connection to the stock ticker HOG, there is insufficient information to establish a strong relationship without details on his committee or subcommittee affiliations.""
+}
+```"
+2025-06-16,2025-05-01,46,Tim Moore,Republican,House,NC,Harley-Davidson Inc,HOG,buy,15000.0,50000.0,23.04,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Tim Moore may have some connection to the stock ticker HOG, without specific committee or subcommittee involvement or additional context, the likelihood of a significant relationship remains low.""
+}
+```"
+2025-06-16,2025-05-02,45,Tim Moore,Republican,House,NC,SUPER MICRO COMPUTER INC,SMCI,sell,15000.0,50000.0,33.71,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Tim Moore may have interests in technology sectors, there is no direct evidence linking him to SMCI or relevant committee activities.""
+}
+```"
+2025-06-16,2025-05-09,38,Tim Moore,Republican,House,NC,YIELDMAX SMCI OPTION INCOME STRATEGY ETF SMCY,,buy,15000.0,50000.0,,,"```json
+{
+  ""probability"": 0.0,
+  ""comment"": ""There is no stock ticker or committee information provided, making it impossible to establish a relationship.""
+}
+```"
+2025-06-16,2025-05-15,32,Tim Moore,Republican,House,NC,YIELDMAX SMCI OPTION INCOME STRATEGY ETF SMCY,,sell,100000.0,250000.0,,,"```json
+{
+  ""probability"": 0.0,
+  ""comment"": ""There is no stock ticker or committee information provided, making it impossible to establish a relationship.""
+}
+```"
+2025-06-16,2025-04-01,76,Tim Moore,Republican,House,NC,American Airlines Group Inc,AAL,buy,15000.0,50000.0,10.30,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Tim Moore may have some level of interest in American Airlines (AAL), there is no direct evidence of a significant relationship between him and the company or its stock.""
+}
+```"
+2025-06-16,2025-04-02,75,Tim Moore,Republican,House,NC,American Airlines Group Inc,AAL,buy,15000.0,50000.0,10.59,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Tim Moore may have some influence in Congress, there is no direct evidence linking him to American Airlines (AAL) or relevant committee involvement that would suggest a strong relationship.""
+}
+```"
+2025-06-16,2025-04-04,73,Tim Moore,Republican,House,NC,American Airlines Group Inc,AAL,buy,15000.0,50000.0,9.46,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Tim Moore may have some connection to AAL (American Airlines Group), without specific committee or subcommittee involvement, the likelihood of a direct relationship remains low.""
+}
+```"
+2025-06-16,2025-04-07,70,Tim Moore,Republican,House,NC,American Airlines Group Inc,AAL,buy,15000.0,50000.0,9.71,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Tim Moore may have some level of interest in AAL (American Airlines Group), there is insufficient information to establish a strong relationship without specific committee or subcommittee involvement.""
+}
+```"
+2025-06-16,2025-04-18,59,Tim Moore,Republican,House,NC,American Airlines Group Inc,AAL,buy,15000.0,50000.0,,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Tim Moore may have some connection to AAL (American Airlines Group), without specific committee or subcommittee involvement, the likelihood of a direct relationship remains low.""
+}
+```"
+2025-06-16,2025-04-22,55,Tim Moore,Republican,House,NC,American Airlines Group Inc,AAL,buy,15000.0,50000.0,9.31,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Tim Moore may have some level of interest in American Airlines (AAL), there is no direct evidence of a significant relationship between him and the company or its stock.""
+}
+```"
+2025-06-16,2025-04-08,69,Tim Moore,Republican,House,NC,DIREXION DAILY SMALL CAP BULL 3X ETF,TNA,buy,15000.0,50000.0,,,"```json
+{
+  ""probability"": 0.2,
+  ""comment"": ""There is limited information connecting Tim Moore to the stock ticker TNA, suggesting a low likelihood of a direct relationship.""
+}
+```"
+2025-06-16,2025-04-04,73,Tim Moore,Republican,House,NC,DIREXION DAILY SMALL CAP BULL 3X ETF,TNA,buy,50000.0,100000.0,,,"```json
+{
+  ""probability"": 0.2,
+  ""comment"": ""There is limited information connecting Tim Moore to the stock ticker TNA, suggesting a low likelihood of a direct relationship.""
+}
+```"
+2025-06-16,2025-04-03,74,Tim Moore,Republican,House,NC,DIREXION DAILY SMALL CAP BULL 3X ETF,TNA,buy,50000.0,100000.0,,,"```json
+{
+  ""probability"": 0.2,
+  ""comment"": ""There is limited information connecting Tim Moore to the stock ticker TNA, suggesting a low likelihood of a direct relationship.""
+}
+```"
+2025-06-16,2025-04-01,76,Tim Moore,Republican,House,NC,DIREXION DAILY SMALL CAP BULL 3X ETF,TNA,buy,15000.0,50000.0,,,"```json
+{
+  ""probability"": 0.2,
+  ""comment"": ""There is limited information connecting Tim Moore to the stock ticker TNA, suggesting a low likelihood of a direct relationship.""
+}
+```"
+2025-06-16,2025-04-07,70,Tim Moore,Republican,House,NC,Ford Motor Co,F,buy,15000.0,50000.0,9.24,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Tim Moore may have some level of interest in Ford (F) due to its significance in the automotive industry, there is no direct evidence of a relationship or involvement in relevant committees or subcommittees.""
+}
+```"
+2025-06-16,2025-04-08,69,Tim Moore,Republican,House,NC,Ford Motor Co,F,buy,15000.0,50000.0,8.69,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Tim Moore may have some connection to Ford (F) through legislative activities, there is insufficient public information to establish a strong relationship.""
+}
+```"
+2025-06-16,2025-04-09,68,Tim Moore,Republican,House,NC,Ford Motor Co,F,buy,15000.0,50000.0,9.50,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Tim Moore may have some connection to Ford (F) through his role in Congress, there is insufficient information to establish a strong relationship without specific committee or subcommittee involvement.""
+}
+```"
+2025-06-16,2025-04-10,67,Tim Moore,Republican,House,NC,Ford Motor Co,F,buy,50000.0,100000.0,9.14,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Tim Moore may have some connection to Ford (F) through legislative activities, there is insufficient information to establish a strong relationship without specific committee or subcommittee involvement.""
+}
+```"
+2025-06-16,2025-04-15,62,Tim Moore,Republican,House,NC,Ford Motor Co,F,sell,100000.0,250000.0,9.45,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Tim Moore may have some connection to Ford (F) through legislative activities, there is insufficient public information to establish a strong relationship.""
+}
+```"
+2025-06-16,2025-04-07,70,Tim Moore,Republican,House,NC,Global X NASDAQ-100 Covered Call ETF,QYLD,buy,15000.0,50000.0,15.25,,"```json
+{
+  ""probability"": 0.2,
+  ""comment"": ""There is limited information connecting Tim Moore to QYLD, suggesting a low likelihood of a direct relationship.""
+}
+```"
+2025-06-16,2025-04-04,73,Tim Moore,Republican,House,NC,Harley-Davidson Inc,HOG,buy,15000.0,50000.0,22.98,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Tim Moore may have some connection to the stock ticker HOG, there is insufficient information to establish a strong relationship without details on committee or subcommittee involvement.""
+}
+```"
+2025-06-16,2025-04-22,55,Tim Moore,Republican,House,NC,PROSHARES ULTRAPRO QQQ,TQQQ,buy,15000.0,50000.0,45.06,,"```json
+{
+  ""probability"": 0.2,
+  ""comment"": ""There is a low likelihood of a direct relationship between Tim Moore and the TQQQ stock ticker, as no specific committee or subcommittee involvement is provided that would suggest a connection.""
+}
+```"
+2025-06-16,2025-04-17,60,Tim Moore,Republican,House,NC,PROSHARES ULTRAPRO QQQ,TQQQ,buy,15000.0,50000.0,45.16,,"```json
+{
+  ""probability"": 0.2,
+  ""comment"": ""There is limited information connecting Tim Moore to TQQQ, suggesting a low likelihood of a direct relationship.""
+}
+```"
+2025-06-16,2025-04-23,54,Tim Moore,Republican,House,NC,PROSHARES ULTRAPRO QQQ,TQQQ,sell,50000.0,100000.0,48.05,,"```json
+{
+  ""probability"": 0.2,
+  ""comment"": ""There is a low likelihood of a direct relationship between Tim Moore and TQQQ, as no specific committee or subcommittee involvement is provided that would connect him to this stock.""
+}
+```"
+2025-06-16,2025-04-30,47,Tim Moore,Republican,House,NC,SUPER MICRO COMPUTER INC,SMCI,buy,15000.0,50000.0,31.86,,"```json
+{
+  ""probability"": 0.2,
+  ""comment"": ""There is limited information available regarding Tim Moore's direct involvement with SMCI, suggesting a low likelihood of a relationship.""
+}
+```"
+2025-06-16,2025-04-17,60,Tim Moore,Republican,House,NC,YIELDMAX SMCI OPTION INCOME STRATEGY ETF SMCY,,buy,15000.0,50000.0,,,"```json
+{
+  ""probability"": 0.1,
+  ""comment"": ""Without specific stock information or committee details, the likelihood of a relationship is low.""
+}
+```"
+2025-06-16,2025-04-01,76,Tim Moore,Republican,House,NC,YIELDMAX SMCI OPTION INCOME STRATEGY ETF SMCY,,buy,15000.0,50000.0,,,"```json
+{
+  ""probability"": 0.0,
+  ""comment"": ""There is no available information linking Tim Moore to any specific stock or committee, indicating no likelihood of a relationship.""
+}
+```"
+2025-06-16,2025-04-22,55,Tim Moore,Republican,House,NC,YIELDMAX SMCI OPTION INCOME STRATEGY ETF SMCY,,buy,50000.0,100000.0,,,"```json
+{
+  ""probability"": 0.0,
+  ""comment"": ""There is no stock ticker or committee information provided, making it impossible to establish a relationship.""
+}
+```"
+2025-06-16,2025-05-14,33,Jonathan Jackson,Democrat,House,IL,Church & Dwight Co Inc,CHD,sell,15000.0,50000.0,93.16,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""There is a low likelihood of a direct relationship between Congress member Jonathan Jackson and the stock ticker CHD, as no specific committee or subcommittee involvement is provided.""
+}
+```"
+2025-06-16,2025-05-14,33,Jonathan Jackson,Democrat,House,IL,International Business Machines Corp,IBM,buy,50000.0,100000.0,257.82,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Jonathan Jackson may have some level of interaction with IBM as a member of Congress, there is no specific evidence of a direct relationship or involvement with the company.""
+}
+```"
+2025-06-16,2025-05-07,40,Jonathan Jackson,Democrat,House,IL,Linde PLC,LIN,sell,50000.0,100000.0,449.66,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Jonathan Jackson may have some level of interest in companies like LIN, there is no direct evidence of a significant relationship or involvement with the stock or its related committee activities.""
+}
+```"
+2025-06-16,2025-05-19,28,Julie Johnson,Democrat,House,TX,Capital One Financial Corp,COF,exchange,1000.0,15000.0,197.41,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Julie Johnson may have some connection to the stock ticker COF, there is insufficient information to establish a strong relationship without specific committee or subcommittee involvement.""
+}
+```"
+2025-06-16,2025-05-15,32,Julie Johnson,Democrat,House,TX,Fidelity National Information Services Inc,FIS,buy,1000.0,15000.0,78.71,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Julie Johnson may have some connection to the stock ticker FIS, without specific committee or subcommittee involvement or additional context, the likelihood of a significant relationship remains low.""
+}
+```"
+2025-06-16,2025-05-02,45,Julie Johnson,Democrat,House,TX,General Dynamics Corp,GD,buy,1000.0,15000.0,273.03,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Julie Johnson may have some connection to General Dynamics (GD) through her congressional role, there is insufficient information to establish a strong likelihood of a direct relationship.""
+}
+```"
+2025-06-16,2025-05-15,32,Julie Johnson,Democrat,House,TX,Morgan Stanley,MS,sell,1000.0,15000.0,132.51,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Julie Johnson may have some connection to the stock ticker MS, there is insufficient information about her committee or subcommittee involvement to suggest a strong relationship.""
+}
+```"
+2025-06-16,2025-05-15,32,Julie Johnson,Democrat,House,TX,The Bank of New York Mellon Corp,BK,buy,1000.0,15000.0,89.39,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Julie Johnson may have some level of interest in the stock ticker BK, there is insufficient information to establish a strong relationship between her and the company or its activities.""
+}
+```"
+2025-06-14,2025-05-30,15,John Boozman,Republican,Senate,AR,RTX Corp,RTX,buy,1000.0,15000.0,136.48,,"```json
+{
+  ""probability"": 0.6,
+  ""comment"": ""John Boozman, as a member of Congress, may have a moderate likelihood of a relationship with RTX due to potential legislative interests in defense and aerospace sectors.""
+}
+```"
+2025-06-14,2025-05-13,32,John Boozman,Republican,Senate,AR,NVIDIA Corporation,NVDA,buy,1000.0,15000.0,129.93,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While John Boozman may have some interest in technology and investment sectors, there is no direct evidence of a significant relationship with NVDA (NVIDIA) based on available information.""
+}
+```"
+2025-06-14,2025-05-30,15,John Boozman,Republican,Senate,AR,Meta Platforms Inc,META,buy,1000.0,15000.0,647.49,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While John Boozman is a member of Congress, there is no direct evidence linking him to META, making the likelihood of a relationship relatively low.""
+}
+```"
+2025-06-14,2025-05-16,29,John Boozman,Republican,Senate,AR,Meta Platforms Inc,META,buy,1000.0,15000.0,640.34,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While John Boozman is a member of Congress, there is no direct evidence linking him to the stock ticker META, which represents Meta Platforms, Inc.""
+}
+```"
+2025-06-14,2025-05-20,25,John Boozman,Republican,Senate,AR,The Home Depot Inc,HD,buy,1000.0,15000.0,377.05,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While John Boozman is a member of Congress, there is no direct evidence linking him to Home Depot (HD) that would suggest a strong relationship.""
+}
+```"
+2025-06-14,2025-05-16,29,John Boozman,Republican,Senate,AR,The Home Depot Inc,HD,buy,1000.0,15000.0,380.78,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While John Boozman is a member of Congress, there is no direct evidence linking him to Home Depot (HD) through committee or subcommittee involvement.""
+}
+```"
+2025-06-14,2025-05-13,32,John Boozman,Republican,Senate,AR,Broadcom Inc,AVGO,buy,1000.0,15000.0,232.42,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While John Boozman may have some connection to the technology sector, there is no direct evidence linking him to Broadcom (AVGO) specifically.""
+}
+```"
+2025-06-14,2025-05-20,25,John Boozman,Republican,Senate,AR,Atmos Energy Corp,ATO,buy,1000.0,15000.0,159.10,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While John Boozman is a member of Congress, there is no direct evidence linking him to the stock ticker ATO, which represents Atmos Energy Corporation.""
+}
+```"
+2025-06-14,2025-05-16,29,John Boozman,Republican,Senate,AR,Amazon.com Inc,AMZN,buy,1000.0,15000.0,205.59,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While John Boozman is a member of Congress, there is no direct evidence of a specific relationship with Amazon (AMZN) without additional context regarding his committee or subcommittee assignments.""
+}
+```"
+2025-06-14,2025-05-20,25,John Boozman,Republican,Senate,AR,Alphabet Inc,GOOGL,buy,1000.0,15000.0,163.98,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While John Boozman is a member of Congress, there is no direct evidence linking him to Google (GOOGL) through committee or subcommittee involvement.""
+}
+```"
+2025-06-14,2025-05-13,32,John Boozman,Republican,Senate,AR,Valero Energy Corp,VLO,sell,1000.0,15000.0,135.11,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While John Boozman may have some connection to the stock ticker VLO (Valero Energy Corporation), there is insufficient public information to establish a strong relationship between him and the company.""
+}
+```"
+2025-06-14,2025-05-20,25,John Boozman,Republican,Senate,AR,NRG Energy Inc,NRG,sell,1000.0,15000.0,159.68,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While John Boozman may have some connection to energy-related issues, there is no direct evidence linking him to NRG specifically, resulting in a low probability of a relationship.""
+}
+```"
+2025-06-14,2025-05-20,25,John Boozman,Republican,Senate,AR,Lowe's Cos Inc,LOW,sell,1000.0,15000.0,231.25,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While John Boozman may have some influence over legislation that could affect Home Depot (LOW), there is no direct evidence of a strong relationship between him and the company.""
+}
+```"
+2025-06-14,2025-05-16,29,John Boozman,Republican,Senate,AR,INVESCO SHORT TERM TREAS ETF,TBLL,sell,1000.0,15000.0,105.72,,"```json
+{
+  ""probability"": 0.2,
+  ""comment"": ""There is limited information connecting John Boozman to the stock ticker TBLL, suggesting a low likelihood of a direct relationship.""
+}
+```"
+2025-06-14,2025-05-20,25,John Boozman,Republican,Senate,AR,General Dynamics Corp,GD,sell,1000.0,15000.0,281.57,,"```json
+{
+  ""probability"": 0.7,
+  ""comment"": ""John Boozman, as a member of Congress, may have a relationship with General Dynamics (GD) due to defense-related interests, but specific committee or subcommittee affiliations are needed for a more accurate assessment.""
+}
+```"
+2025-06-14,2025-05-30,15,John Boozman,Republican,Senate,AR,Fortune Brands Innovations Inc,FBIN,sell,1000.0,15000.0,50.40,,"```json
+{
+  ""probability"": 0.2,
+  ""comment"": ""There is limited information connecting John Boozman to the stock ticker FBIN, suggesting a low likelihood of a direct relationship.""
+}
+```"
+2025-06-14,2025-05-20,25,John Boozman,Republican,Senate,AR,DTE Energy Co,DTE,sell,1000.0,15000.0,138.39,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While John Boozman may have some level of interest in DTE due to his role in Congress, there is insufficient information to establish a strong relationship between him and the stock ticker.""
+}
+```"
+2025-06-23,2025-05-08,46,Laurel Lee,Republican,House,FL,Novo Nordisk A/S,NVO,sell,1000.0,15000.0,64.85,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Laurel Lee is a Congress member, there is no direct evidence linking her to the stock ticker NVO, which represents Novo Nordisk, a pharmaceutical company.""
+}
+```"
+2025-06-23,2025-06-12,11,Pete Sessions,Republican,House,TX,Danaher Corp,DHR,sell,50000.0,100000.0,205.10,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Pete Sessions may have some level of interest in DHR, there is no direct evidence of a significant relationship between him and the company or its activities.""
+}
+```"
+2025-06-23,2025-06-12,11,Pete Sessions,Republican,House,TX,Johnson & Johnson,JNJ,sell,15000.0,50000.0,156.66,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Pete Sessions may have some level of interest in Johnson & Johnson (JNJ) due to its prominence in healthcare, there is no direct evidence of a specific relationship or involvement with the company.""
+}
+```"
+2025-06-23,2025-05-09,45,Mike Kennedy,Republican,House,UT,Berkshire Hathaway Inc,BRK/B,buy,1000.0,15000.0,513.74,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Mike Kennedy may have some connection to financial matters, there is no direct evidence linking him to Berkshire Hathaway (BRK/B) or relevant committee involvement.""
+}
+```"
+2025-06-27,2025-06-11,16,David Taylor,Republican,House,OH,JPMorgan Chase & Co,JPM,sell,1000.0,15000.0,268.15,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While David Taylor may have some level of interaction with JPMorgan Chase due to his congressional role, there is insufficient information to establish a strong relationship without specific committee or subcommittee involvement.""
+}
+```"
+2025-06-27,2025-06-11,16,David Taylor,Republican,House,OH,salesforce.com Inc,CRM,buy,1000.0,15000.0,265.91,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While David Taylor may have some connection to the stock ticker CRM, there is insufficient information to establish a strong relationship without details on his committee or subcommittee involvement.""
+}
+```"
+2025-06-26,2025-06-16,10,Jim Banks,Republican,Senate,IN,Roblox Corp,RBLX,sell,1000.0,15000.0,100.44,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Jim Banks may have interests in technology and gaming sectors, there is no direct evidence of a relationship with Roblox (RBLX) based on available information.""
+}
+```"
+2025-06-25,2025-06-11,14,Suzan DelBene,Democrat,House,WA,ARIZONA INDUSTRIAL DEVELOPMENT AUTHORITY,,sell,15000.0,50000.0,,,"```json
+{
+  ""probability"": 0.1,
+  ""comment"": ""Without specific stock ticker information or committee details, the likelihood of a relationship is low.""
+}
+```"
+2025-06-25,2025-06-11,14,Suzan DelBene,Democrat,House,WA,COLORADO HEALTH FACILITIES AUTHORITY,,sell,50000.0,100000.0,,,"```json
+{
+  ""probability"": 0.1,
+  ""comment"": ""Without specific stock ticker information or committee assignments, the likelihood of a direct relationship is low.""
+}
+```"
+2025-06-25,2025-06-11,14,Suzan DelBene,Democrat,House,WA,CITY AND COUNTY OF HONOLULU,,sell,15000.0,50000.0,,,"```json
+{
+  ""probability"": 0.1,
+  ""comment"": ""Without specific stock ticker information or committee details, the likelihood of a relationship is low.""
+}
+```"
+2025-06-25,2025-06-11,14,Suzan DelBene,Democrat,House,WA,STATE OF ILLINOIS,,sell,15000.0,50000.0,,,"```json
+{
+  ""probability"": 0.1,
+  ""comment"": ""Without specific stock ticker information or committee details, the likelihood of a direct relationship is low.""
+}
+```"
+2025-06-25,2025-06-11,14,Suzan DelBene,Democrat,House,WA,MICHIGAN STATE HOUSING DEVELOPMENT AUTHORITY,,sell,50000.0,100000.0,,,"```json
+{
+  ""probability"": 0.1,
+  ""comment"": ""Without specific stock ticker information or committee details, the likelihood of a relationship is low.""
+}
+```"
+2025-06-25,2025-06-11,14,Suzan DelBene,Democrat,House,WA,CITY OF NEW YORK,,sell,15000.0,50000.0,,,"```json
+{
+  ""probability"": 0.0,
+  ""comment"": ""There is no stock ticker or committee information provided, making it impossible to establish a relationship.""
+}
+```"
+2025-06-25,2025-06-11,14,Suzan DelBene,Democrat,House,WA,NEW YORK CITY TRANSITIONAL FINANCE AUTHORITY,,sell,15000.0,50000.0,,,"```json
+{
+  ""probability"": 0.1,
+  ""comment"": ""Without specific stock ticker information or committee details, the likelihood of a direct relationship is low.""
+}
+```"
+2025-06-25,2025-06-11,14,Suzan DelBene,Democrat,House,WA,NORTH DAKOTA HOUSING FINANCE AGENCY,,sell,50000.0,100000.0,,,"```json
+{
+  ""probability"": 0.1,
+  ""comment"": ""Without specific stock ticker information or committee details, the likelihood of a relationship is low.""
+}
+```"
+2025-06-25,2025-06-04,21,Suzan DelBene,Democrat,House,WA,STATE OF OHIO HIGHER EDUCATIONAL FACILITY,,sell,250000.0,500000.0,,,"```json
+{
+  ""probability"": 0.1,
+  ""comment"": ""Without specific stock ticker information or committee details, the likelihood of a relationship is low.""
+}
+```"
+2025-06-25,2025-06-11,14,Suzan DelBene,Democrat,House,WA,CITY OF OKLAHOMA CITY,,sell,50000.0,100000.0,,,"```json
+{
+  ""probability"": 0.1,
+  ""comment"": ""Without specific stock ticker information or committee details, the likelihood of a relationship is low.""
+}
+```"
+2025-06-25,2025-06-11,14,Suzan DelBene,Democrat,House,WA,SCHOOL DISTRICT OF PHILADELPHIA,,sell,15000.0,50000.0,,,"```json
+{
+  ""probability"": 0.1,
+  ""comment"": ""Without specific stock ticker information or committee details, the likelihood of a relationship is low.""
+}
+```"
+2025-06-25,2025-06-11,14,Suzan DelBene,Democrat,House,WA,SEATTLE CITY LIGHT,,sell,15000.0,50000.0,,,"```json
+{
+  ""probability"": 0.1,
+  ""comment"": ""Without specific stock ticker information or committee assignments, the likelihood of a direct relationship is low.""
+}
+```"
+2025-06-25,2025-06-11,14,Suzan DelBene,Democrat,House,WA,SPRING INDEPENDENT SCHOOL DISTRICT,,sell,15000.0,50000.0,,,"```json
+{
+  ""probability"": 0.1,
+  ""comment"": ""Without specific stock ticker information or committee details, the likelihood of a direct relationship is low.""
+}
+```"
+2025-06-25,2025-06-11,14,Suzan DelBene,Democrat,House,WA,TRIBOROUGH BRIDGE AND TUNNEL AUTHORITY,,sell,50000.0,100000.0,,,"```json
+{
+  ""probability"": 0.1,
+  ""comment"": ""Without specific stock ticker information or committee details, the likelihood of a relationship is low.""
+}
+```"
+2025-06-25,2025-06-11,14,Suzan DelBene,Democrat,House,WA,TEXAS TRANSPORTATION COMMISSION,,sell,50000.0,100000.0,,,"```json
+{
+  ""probability"": 0.1,
+  ""comment"": ""Without specific stock information or committee details, the likelihood of a relationship is low.""
+}
+```"
+2025-06-25,2025-06-04,21,Suzan DelBene,Democrat,House,WA,UNIVERSITY OF TEXAS SYSTEM,,buy,250000.0,500000.0,,,"```json
+{
+  ""probability"": 0.1,
+  ""comment"": ""Without specific stock ticker information or committee details, the likelihood of a relationship is low.""
+}
+```"
+2025-06-25,2025-06-11,14,Suzan DelBene,Democrat,House,WA,STATE OF WISCONSIN,,sell,100000.0,250000.0,,,"```json
+{
+  ""probability"": 0.1,
+  ""comment"": ""Without specific stock ticker information or committee details, the likelihood of a relationship is low.""
+}
+```"
+2025-06-25,2025-06-11,14,Suzan DelBene,Democrat,House,WA,INDUSTRIAL DEVELOPMENT AUTHORITY OF WISE COUNTY,,sell,15000.0,50000.0,,,"```json
+{
+  ""probability"": 0.1,
+  ""comment"": ""Without specific stock ticker information or committee details, the likelihood of a relationship is low.""
+}
+```"
+2025-06-24,2025-05-20,35,Richard Blumenthal,Democrat,Senate,CT,Not Fade Away LLC,,buy,1000.0,15000.0,,,"```json
+{
+  ""probability"": 0.1,
+  ""comment"": ""There is insufficient information to establish a relationship between Richard Blumenthal and any specific stock or committee.""
+}
+```"
+2025-06-24,2025-05-21,34,Richard Blumenthal,Democrat,Senate,CT,ELCM2 LLC,,sell,50000.0,100000.0,,,"```json
+{
+  ""probability"": 0.1,
+  ""comment"": ""Without specific stock information or committee details, the likelihood of a relationship is low.""
+}
+```"
+2025-06-24,2025-05-21,34,Richard Blumenthal,Democrat,Senate,CT,ELCM2 LLC,,sell,1000.0,15000.0,,,"```json
+{
+  ""probability"": 0.1,
+  ""comment"": ""There is insufficient information to establish a relationship between Richard Blumenthal and any specific stock or committee.""
+}
+```"
+2025-06-24,2025-05-27,28,Scott Peters,Democrat,House,CA,ALLOCATE ALPHA FUND II LP,,buy,15000.0,50000.0,,,"```json
+{
+  ""probability"": 0.1,
+  ""comment"": ""Without specific stock ticker information or committee details, the likelihood of a relationship is low.""
+}
+```"
+2025-06-24,2025-05-23,32,Scott Peters,Democrat,House,CA,ALLOCATE PREMIER ACCESS FUND LP,,buy,15000.0,50000.0,,,"```json
+{
+  ""probability"": 0.1,
+  ""comment"": ""Without specific stock ticker information or committee details, the likelihood of a relationship is low.""
+}
+```"
+2025-06-24,2025-05-21,34,Scott Peters,Democrat,House,CA,LYNETT CAPITAL PARTNERS III,,buy,100000.0,250000.0,,,"```json
+{
+  ""probability"": 0.1,
+  ""comment"": ""Without specific stock ticker information or committee details, the likelihood of a relationship is low.""
+}
+```"
+2025-06-24,2025-06-17,7,Marjorie Taylor Greene,Republican,House,GA,Lululemon Athletica Inc,LULU,sell,1000.0,15000.0,235.20,,"```json
+{
+  ""probability"": 0.2,
+  ""comment"": ""There is limited public information linking Marjorie Taylor Greene directly to Lululemon (LULU), suggesting a low likelihood of a significant relationship.""
+}
+```"
+2025-06-24,2025-06-17,7,Marjorie Taylor Greene,Republican,House,GA,Snowflake Inc,SNOW,buy,1000.0,15000.0,209.45,,"```json
+{
+  ""probability"": 0.1,
+  ""comment"": ""There is minimal public information linking Marjorie Taylor Greene directly to Snowflake Inc. (SNOW) or relevant congressional committees that would suggest a significant relationship.""
+}
+```"
+2025-06-24,2025-06-17,7,Marjorie Taylor Greene,Republican,House,GA,Tractor Supply Co,TSCO,buy,1000.0,15000.0,50.98,,"```json
+{
+  ""probability"": 0.2,
+  ""comment"": ""There is limited public information linking Marjorie Taylor Greene directly to Tractor Supply Company (TSCO), suggesting a low likelihood of a significant relationship.""
+}
+```"
+2025-06-24,2025-05-15,40,Bill Keating,Democrat,House,MA,Microsoft Corp,MSFT,sell,1000.0,15000.0,,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Bill Keating may have some level of interest in Microsoft (MSFT) due to its significance in the tech industry, there is no direct evidence of a specific relationship or involvement with the company.""
+}
+```"
+2025-06-24,2025-06-09,15,Bill Keating,Democrat,House,MA,PepsiCo Inc,PEP,sell,1000.0,15000.0,,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Bill Keating may have some level of interest in companies like PepsiCo (PEP), there is no direct evidence of a significant relationship or involvement with the company or its stock.""
+}
+```"
+2025-06-24,2025-05-23,32,Rob Bresnahan,Republican,House,PA,3M Co,MMM,sell,15000.0,50000.0,147.62,,"```json
+{
+  ""probability"": 0.2,
+  ""comment"": ""There is limited information connecting Rob Bresnahan to the stock ticker MMM, suggesting a low likelihood of a direct relationship.""
+}
+```"
+2025-06-24,2025-05-29,26,Rob Bresnahan,Republican,House,PA,Arista Networks Inc,ANET,sell,1000.0,15000.0,86.37,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Rob Bresnahan may have some connection to the stock ticker ANET, there is insufficient information to establish a strong relationship without details on committee or subcommittee involvement.""
+}
+```"
+2025-06-24,2025-06-13,11,Rob Bresnahan,Republican,House,PA,Chubb Ltd,CB,sell,1000.0,15000.0,286.79,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""There is a low likelihood of a relationship as no specific committee or subcommittee information is provided to establish a connection between Rob Bresnahan and the stock ticker CB.""
+}
+```"
+2025-06-24,2025-05-23,32,Rob Bresnahan,Republican,House,PA,Elastic N.V.,ESTC,sell,1000.0,15000.0,92.25,,"```json
+{
+  ""probability"": 0.2,
+  ""comment"": ""There is limited information connecting Rob Bresnahan to the stock ticker ESTC, suggesting a low likelihood of a direct relationship.""
+}
+```"
+2025-06-24,2025-05-23,32,Rob Bresnahan,Republican,House,PA,Guidewire Software Inc,GWRE,sell,1000.0,15000.0,209.94,,"```json
+{
+  ""probability"": 0.2,
+  ""comment"": ""There is limited information connecting Rob Bresnahan to the stock ticker GWRE, suggesting a low likelihood of a direct relationship.""
+}
+```"
+2025-06-24,2025-06-02,22,Rob Bresnahan,Republican,House,PA,McDonald's Corp,MCD,sell,15000.0,50000.0,312.68,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Rob Bresnahan may have some connection to McDonald's (MCD) through legislative activities, there is insufficient information to establish a strong relationship without specific committee or subcommittee involvement.""
+}
+```"
+2025-06-24,2025-05-23,32,Rob Bresnahan,Republican,House,PA,NU HOLDINGS LTD,NU,sell,1000.0,15000.0,11.99,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""There is limited information available about Rob Bresnahan's involvement with the stock ticker NU, suggesting a low likelihood of a direct relationship.""
+}
+```"
+2025-06-24,2025-05-29,26,Rob Bresnahan,Republican,House,PA,NVIDIA Corporation,NVDA,buy,1000.0,15000.0,139.19,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Rob Bresnahan may have some connection to NVDA, there is insufficient public information to establish a strong relationship between the congress member and the stock ticker.""
+}
+```"
+2025-06-24,2025-05-23,32,Rob Bresnahan,Republican,House,PA,NVIDIA Corporation,NVDA,buy,1000.0,15000.0,131.29,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Rob Bresnahan may have some connection to NVDA, there is insufficient information to establish a strong relationship without details on committee or subcommittee involvement.""
+}
+```"
+2025-06-24,2025-05-29,26,Rob Bresnahan,Republican,House,PA,OKTA Inc,OKTA,sell,1000.0,15000.0,106.63,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""There is a low likelihood of a relationship as there is no specific information linking Rob Bresnahan to the stock ticker OKTA or relevant committees.""
+}
+```"
+2025-06-24,2025-05-23,32,Rob Bresnahan,Republican,House,PA,Snowflake Inc,SNOW,buy,1000.0,15000.0,200.05,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Rob Bresnahan may have some connection to the stock ticker SNOW, there is insufficient information to establish a strong relationship without specific committee or subcommittee involvement.""
+}
+```"
+2025-06-24,2025-05-23,32,Rob Bresnahan,Republican,House,PA,Tesla Inc,TSLA,buy,1000.0,15000.0,339.34,,"```json
+{
+  ""probability"": 0.2,
+  ""comment"": ""There is limited information connecting Rob Bresnahan to Tesla (TSLA) without specific committee or subcommittee involvement in relevant legislation.""
+}
+```"
+2025-06-24,2025-05-29,26,Rob Bresnahan,Republican,House,PA,Veeva Systems Inc,VEEV,buy,1000.0,15000.0,279.04,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Rob Bresnahan's connection to VEEV is not explicitly documented, the likelihood of a relationship exists due to potential interests in healthcare and technology sectors.""
+}
+```"
+2025-06-23,2025-05-12,42,Jefferson Shreve,Republican,House,IN,3M Co,MMM,sell,15000.0,50000.0,150.33,,"```json
+{
+  ""probability"": 0.2,
+  ""comment"": ""There is a low likelihood of a direct relationship between Congress member Jefferson Shreve and the stock ticker MMM, as no specific committee or subcommittee involvement is provided.""
+}
+```"
+2025-06-23,2025-05-12,42,Jefferson Shreve,Republican,House,IN,Abbott Laboratories,ABT,sell,50000.0,100000.0,131.99,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Jefferson Shreve may have some connection to Abbott Laboratories (ABT) through legislative activities, there is insufficient information to establish a strong relationship.""
+}
+```"
+2025-06-23,2025-05-12,42,Jefferson Shreve,Republican,House,IN,Adobe Inc,ADBE,sell,15000.0,50000.0,395.94,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Jefferson Shreve may have interests in technology and finance, there is no direct evidence linking him to Adobe (ADBE) or relevant committees that would suggest a strong relationship.""
+}
+```"
+2025-06-23,2025-05-08,46,Jefferson Shreve,Republican,House,IN,Adobe Inc,ADBE,buy,15000.0,50000.0,383.99,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Jefferson Shreve may have interests in technology and finance, there is no direct evidence linking him to Adobe (ADBE) or relevant committees that would suggest a strong relationship.""
+}
+```"
+2025-06-23,2025-05-12,42,Jefferson Shreve,Republican,House,IN,Advanced Micro Devices Inc,AMD,sell,50000.0,100000.0,108.12,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Jefferson Shreve may have some interest in technology and semiconductor industries, there is no direct evidence of a specific relationship with AMD.""
+}
+```"
+2025-06-23,2025-05-08,46,Jefferson Shreve,Republican,House,IN,Advanced Micro Devices Inc,AMD,buy,15000.0,50000.0,101.70,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Jefferson Shreve may have some interest in technology companies like AMD, there is no direct evidence of a specific relationship or involvement with the company or relevant committees.""
+}
+```"
+2025-06-23,2025-05-12,42,Jefferson Shreve,Republican,House,IN,Agilent Technologies Inc,A,sell,15000.0,50000.0,115.55,,"```json
+{
+  ""probability"": 0.2,
+  ""comment"": ""There is limited information connecting Jefferson Shreve to stock ticker A, suggesting a low likelihood of a direct relationship.""
+}
+```"
+2025-06-23,2025-05-12,42,Jefferson Shreve,Republican,House,IN,AKAMAI TECHNOLOGIES Inc,AKAM,sell,15000.0,50000.0,78.79,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Jefferson Shreve may have some relevance to the stock ticker AKAM, there is insufficient information to establish a strong relationship without specific committee or subcommittee involvement.""
+}
+```"
+2025-06-23,2025-05-12,42,Jefferson Shreve,Republican,House,IN,Albemarle Corp,ALB,sell,15000.0,50000.0,61.57,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Jefferson Shreve may have interests in issues related to the stock ticker ALB (Albemarle Corporation), there is insufficient information to establish a direct relationship without knowing his committee or subcommittee affiliations.""
+}
+```"
+2025-06-23,2025-05-12,42,Jefferson Shreve,Republican,House,IN,Alnylam Pharmaceuticals Inc,ALNY,sell,15000.0,50000.0,270.19,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Jefferson Shreve may have interests in biotechnology, the specific connection to the stock ticker ALNY (Alnylam Pharmaceuticals) is not established without further context on his committee or subcommittee affiliations.""
+}
+```"
+2025-06-23,2025-05-12,42,Jefferson Shreve,Republican,House,IN,Alphabet Inc,GOOGL,sell,100000.0,250000.0,158.46,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Jefferson Shreve may have interests in technology and business, there is no direct evidence of a relationship with GOOGL or relevant committee involvement.""
+}
+```"
+2025-06-23,2025-05-12,42,Jefferson Shreve,Republican,House,IN,Alphabet Inc,GOOGL,sell,100000.0,250000.0,159.58,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Jefferson Shreve may have interests in technology and business, there is no direct evidence of a relationship with GOOGL or relevant committee involvement.""
+}
+```"
+2025-06-23,2025-05-12,42,Jefferson Shreve,Republican,House,IN,Amazon.com Inc,AMZN,sell,250000.0,500000.0,208.64,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Jefferson Shreve may have some connection to Amazon (AMZN) through legislative interests, there is insufficient information to establish a strong relationship without specific committee or subcommittee details.""
+}
+```"
+2025-06-23,2025-05-08,46,Jefferson Shreve,Republican,House,IN,American Eagle Outfitters Inc,AEO,buy,15000.0,50000.0,11.35,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Jefferson Shreve may have interests in various sectors, there is no direct evidence linking him to the stock ticker AEO, which represents American Eagle Outfitters, Inc.""
+}
+```"
+2025-06-23,2025-05-12,42,Jefferson Shreve,Republican,House,IN,American Eagle Outfitters Inc,AEO,sell,15000.0,50000.0,12.07,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Jefferson Shreve may have some connection to the stock ticker AEO, there is insufficient information to establish a strong relationship without specific committee or subcommittee involvement.""
+}
+```"
+2025-06-23,2025-05-12,42,Jefferson Shreve,Republican,House,IN,American Express Co,AXP,sell,15000.0,50000.0,298.92,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Jefferson Shreve may have some connection to financial matters, there is no direct evidence linking him to American Express (AXP) or relevant committees/subcommittees.""
+}
+```"
+2025-06-23,2025-05-08,46,Jefferson Shreve,Republican,House,IN,American Express Co,AXP,buy,15000.0,50000.0,283.66,,"```json
+{
+  ""probability"": 0.2,
+  ""comment"": ""There is a low likelihood of a direct relationship between Congress member Jefferson Shreve and the stock ticker AXP (American Express), as no specific committee or subcommittee involvement is indicated.""
+}
+```"
+2025-06-23,2025-05-12,42,Jefferson Shreve,Republican,House,IN,American International Group Inc,AIG,sell,15000.0,50000.0,83.47,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Jefferson Shreve may have some connection to AIG through legislative activities, there is insufficient information to establish a strong relationship.""
+}
+```"
+2025-06-23,2025-05-12,42,Jefferson Shreve,Republican,House,IN,American Tower Corp,AMT,sell,15000.0,50000.0,207.92,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Jefferson Shreve may have some connection to the stock ticker AMT, there is insufficient information to establish a strong relationship without specific committee or subcommittee involvement.""
+}
+```"
+2025-06-23,2025-05-12,42,Jefferson Shreve,Republican,House,IN,American Water Works Company Inc,AWK,sell,15000.0,50000.0,138.64,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Jefferson Shreve may have some connection to the water utility sector represented by AWK, there is insufficient information to establish a strong relationship without specific committee or subcommittee involvement.""
+}
+```"
+2025-06-23,2025-05-12,42,Jefferson Shreve,Republican,House,IN,Amgen Inc,AMGN,sell,15000.0,50000.0,274.76,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Jefferson Shreve may have interests in health-related issues, there is no direct evidence linking him to Amgen (AMGN) or relevant committees/subcommittees.""
+}
+```"
+2025-06-23,2025-05-12,42,Jefferson Shreve,Republican,House,IN,Analog Devices Inc,ADI,sell,15000.0,50000.0,223.15,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Jefferson Shreve may have interests in technology and finance, there is no direct evidence linking him to Analog Devices, Inc. (ADI) or relevant committees/subcommittees.""
+}
+```"
+2025-06-23,2025-05-08,46,Jefferson Shreve,Republican,House,IN,Aon PLC,AON,sell,15000.0,50000.0,357.11,,"```json
+{
+  ""probability"": 0.2,
+  ""comment"": ""There is a low likelihood of a direct relationship between Congress member Jefferson Shreve and the stock ticker AON, as no specific committee or subcommittee involvement is indicated.""
+}
+```"
+2025-06-23,2025-05-08,46,Jefferson Shreve,Republican,House,IN,Apple Inc,AAPL,sell,500000.0,1000000.0,197.49,,"```json
+{
+  ""probability"": 0.2,
+  ""comment"": ""While Jefferson Shreve may have interests in technology and finance, there is no direct evidence linking him to Apple Inc. (AAPL) or relevant committees/subcommittees.""
+}
+```"
+2025-06-23,2025-05-12,42,Jefferson Shreve,Republican,House,IN,Apple Inc,AAPL,sell,100000.0,250000.0,210.79,,"```json
+{
+  ""probability"": 0.2,
+  ""comment"": ""While Jefferson Shreve may have interests in technology and finance, there is no direct evidence linking him to Apple Inc. (AAPL) or relevant committees/subcommittees.""
+}
+```"
+2025-06-23,2025-05-08,46,Jefferson Shreve,Republican,House,IN,Applied Materials Inc,AMAT,sell,50000.0,100000.0,156.00,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Jefferson Shreve may have interests in technology and manufacturing sectors, there is no direct evidence linking him to AMAT (Applied Materials, Inc.) or relevant committees.""
+}
+```"
+2025-06-23,2025-05-12,42,Jefferson Shreve,Republican,House,IN,Applied Materials Inc,AMAT,sell,50000.0,100000.0,167.99,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Jefferson Shreve may have interests in technology and manufacturing sectors, there is no direct evidence linking him to AMAT or relevant committees that would suggest a strong relationship.""
+}
+```"
+2025-06-23,2025-05-12,42,Jefferson Shreve,Republican,House,IN,APPLOVIN CORP,APP,sell,15000.0,50000.0,347.90,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Jefferson Shreve may have interests in various sectors, there is insufficient information to establish a direct relationship with the stock ticker APP.""
+}
+```"
+2025-06-23,2025-05-12,42,Jefferson Shreve,Republican,House,IN,Aptiv PLC,APTV,sell,15000.0,50000.0,66.93,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Jefferson Shreve may have interests in automotive or technology sectors related to APTV, there is no direct evidence of a relationship between him and the company.""
+}
+```"
+2025-06-23,2025-05-08,46,Jefferson Shreve,Republican,House,IN,Aptiv PLC,APTV,sell,15000.0,50000.0,61.11,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Jefferson Shreve may have interests in automotive or technology sectors related to APTV, there is no direct evidence of a specific relationship between him and the company.""
+}
+```"
+2025-06-23,2025-05-12,42,Jefferson Shreve,Republican,House,IN,Arch Capital Group Ltd,ACGL,sell,15000.0,50000.0,94.63,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Jefferson Shreve may have interests in financial matters, there is no direct evidence linking him to the stock ticker ACGL or relevant committees/subcommittees.""
+}
+```"
+2025-06-23,2025-05-12,42,Jefferson Shreve,Republican,House,IN,Ares Management Corp,ARES,sell,50000.0,100000.0,172.57,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Jefferson Shreve may have interests in financial matters, there is no direct evidence linking him to the ARES stock or relevant committees.""
+}
+```"
+2025-06-23,2025-05-12,42,Jefferson Shreve,Republican,House,IN,Arista Networks Inc,ANET,sell,50000.0,100000.0,92.32,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Jefferson Shreve may have interests in technology and networking sectors, there is no direct evidence linking him to Arista Networks (ANET) or relevant committees/subcommittees.""
+}
+```"
+2025-06-23,2025-05-12,42,Jefferson Shreve,Republican,House,IN,AT&T Inc,T,sell,15000.0,50000.0,27.01,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Jefferson Shreve may have some connection to telecommunications issues related to the stock ticker T (AT&T), without specific committee or subcommittee assignments, the likelihood of a direct relationship remains low.""
+}
+```"
+2025-06-23,2025-05-12,42,Jefferson Shreve,Republican,House,IN,AUTODESK Inc,ADSK,sell,15000.0,50000.0,293.20,,"```json
+{
+  ""probability"": 0.2,
+  ""comment"": ""There is a low likelihood of a direct relationship between Congress member Jefferson Shreve and the stock ticker ADSK, as no specific committee or subcommittee involvement is provided.""
+}
+```"
+2025-06-23,2025-05-12,42,Jefferson Shreve,Republican,House,IN,Automatic Data Processing Inc,ADP,sell,50000.0,100000.0,309.38,,"```json
+{
+  ""probability"": 0.2,
+  ""comment"": ""There is a low likelihood of a direct relationship between Congress member Jefferson Shreve and the stock ticker ADP, as no specific committee or subcommittee involvement is provided.""
+}
+```"
+2025-06-23,2025-05-12,42,Jefferson Shreve,Republican,House,IN,AutoZone Inc,AZO,sell,50000.0,100000.0,"3,664.25",,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Jefferson Shreve may have interests in various sectors, there is no direct evidence linking him to the stock ticker AZO (AutoZone) or relevant committee activities.""
+}
+```"
+2025-06-23,2025-05-12,42,Jefferson Shreve,Republican,House,IN,Axon Enterprise Inc,AXON,sell,15000.0,50000.0,693.10,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Jefferson Shreve may have interests in technology and public safety, there is no direct evidence linking him to Axon Enterprises or its stock activities.""
+}
+```"
+2025-06-23,2025-05-12,42,Jefferson Shreve,Republican,House,IN,BALL CORPORATION,BALL,sell,15000.0,50000.0,53.23,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Jefferson Shreve may have some influence over legislation that could affect companies like Ball Corporation (ticker: BALL), there is no direct evidence of a specific relationship between them.""
+}
+```"
+2025-06-23,2025-05-08,46,Jefferson Shreve,Republican,House,IN,BALL CORPORATION,BALL,sell,15000.0,50000.0,51.78,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Jefferson Shreve may have some connection to the stock ticker BALL, there is insufficient information to establish a strong relationship without specific committee or subcommittee involvement.""
+}
+```"
+2025-06-23,2025-05-08,46,Jefferson Shreve,Republican,House,IN,Bank of America Corp,BAC,buy,15000.0,50000.0,41.60,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Jefferson Shreve may have some connection to financial matters, there is no direct evidence linking him to Bank of America (BAC) or relevant committees.""
+}
+```"
+2025-06-23,2025-05-12,42,Jefferson Shreve,Republican,House,IN,Bank of America Corp,BAC,sell,15000.0,50000.0,43.36,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Jefferson Shreve may have some connection to financial matters, there is no direct evidence linking him to Bank of America (BAC) or relevant committees.""
+}
+```"
+2025-06-23,2025-05-12,42,Jefferson Shreve,Republican,House,IN,Berkshire Hathaway Inc,BRK/B,sell,100000.0,250000.0,514.30,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Jefferson Shreve may have some connection to financial matters, there is no direct evidence linking him to Berkshire Hathaway (BRK/B) or relevant committees/subcommittees.""
+}
+```"
+2025-06-23,2025-05-12,42,Jefferson Shreve,Republican,House,IN,Blackrock Inc,BLK,sell,50000.0,100000.0,958.03,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Jefferson Shreve may have some connection to financial matters, there is no direct evidence linking him to the stock ticker BLK (BlackRock) or any specific committee or subcommittee related to it.""
+}
+```"
+2025-06-27,2025-06-11,16,David Taylor,Republican,House,OH,JPMorgan Chase & Co,JPM,sell,1000.0,15000.0,268.15,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While David Taylor may have some connection to JPMorgan Chase through financial interests, there is insufficient information to establish a strong relationship without specific committee or subcommittee involvement.""
+}
+```"
+2025-06-27,2025-06-11,16,David Taylor,Republican,House,OH,salesforce.com Inc,CRM,buy,1000.0,15000.0,265.91,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While David Taylor may have some connection to CRM (Salesforce), without specific committee or subcommittee information, the likelihood of a direct relationship remains low.""
+}
+```"
+2025-06-26,2025-06-16,10,Jim Banks,Republican,Senate,IN,Roblox Corp,RBLX,sell,1000.0,15000.0,100.44,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Jim Banks may have interests in technology and gaming sectors, there is no direct evidence of a relationship with Roblox (RBLX) based on available information.""
+}
+```"
+2025-06-25,2025-06-11,14,Suzan DelBene,Democrat,House,WA,ARIZONA INDUSTRIAL DEVELOPMENT AUTHORITY,,sell,15000.0,50000.0,,,"```json
+{
+  ""probability"": 0.1,
+  ""comment"": ""Without specific stock ticker information or committee details, the likelihood of a relationship is low.""
+}
+```"
+2025-06-25,2025-06-11,14,Suzan DelBene,Democrat,House,WA,COLORADO HEALTH FACILITIES AUTHORITY,,sell,50000.0,100000.0,,,"```json
+{
+  ""probability"": 0.1,
+  ""comment"": ""Without specific stock ticker information or committee details, the likelihood of a relationship is low.""
+}
+```"
+2025-06-25,2025-06-11,14,Suzan DelBene,Democrat,House,WA,CITY AND COUNTY OF HONOLULU,,sell,15000.0,50000.0,,,"```json
+{
+  ""probability"": 0.1,
+  ""comment"": ""Without specific stock ticker information or committee details, the likelihood of a relationship is low.""
+}
+```"
+2025-06-25,2025-06-11,14,Suzan DelBene,Democrat,House,WA,STATE OF ILLINOIS,,sell,15000.0,50000.0,,,"```json
+{
+  ""probability"": 0.1,
+  ""comment"": ""Without specific stock ticker information or committee details, the likelihood of a relationship is low.""
+}
+```"
+2025-06-25,2025-06-11,14,Suzan DelBene,Democrat,House,WA,MICHIGAN STATE HOUSING DEVELOPMENT AUTHORITY,,sell,50000.0,100000.0,,,"```json
+{
+  ""probability"": 0.1,
+  ""comment"": ""Without specific stock ticker information or committee details, the likelihood of a relationship is low.""
+}
+```"
+2025-06-25,2025-06-11,14,Suzan DelBene,Democrat,House,WA,CITY OF NEW YORK,,sell,15000.0,50000.0,,,"```json
+{
+  ""probability"": 0.1,
+  ""comment"": ""Without specific stock ticker information or committee details, the likelihood of a relationship is low.""
+}
+```"
+2025-06-25,2025-06-11,14,Suzan DelBene,Democrat,House,WA,NEW YORK CITY TRANSITIONAL FINANCE AUTHORITY,,sell,15000.0,50000.0,,,"```json
+{
+  ""probability"": 0.1,
+  ""comment"": ""Without specific stock information or committee details, the likelihood of a relationship is low.""
+}
+```"
+2025-06-25,2025-06-11,14,Suzan DelBene,Democrat,House,WA,NORTH DAKOTA HOUSING FINANCE AGENCY,,sell,50000.0,100000.0,,,"```json
+{
+  ""probability"": 0.1,
+  ""comment"": ""Without specific stock ticker information or committee details, the likelihood of a direct relationship is low.""
+}
+```"
+2025-06-25,2025-06-04,21,Suzan DelBene,Democrat,House,WA,STATE OF OHIO HIGHER EDUCATIONAL FACILITY,,sell,250000.0,500000.0,,,"```json
+{
+  ""probability"": 0.1,
+  ""comment"": ""Without specific stock ticker information or committee details, the likelihood of a relationship is low.""
+}
+```"
+2025-06-25,2025-06-11,14,Suzan DelBene,Democrat,House,WA,CITY OF OKLAHOMA CITY,,sell,50000.0,100000.0,,,"```json
+{
+  ""probability"": 0.1,
+  ""comment"": ""Without specific stock ticker information or committee assignments, the likelihood of a direct relationship is low.""
+}
+```"
+2025-06-25,2025-06-11,14,Suzan DelBene,Democrat,House,WA,SCHOOL DISTRICT OF PHILADELPHIA,,sell,15000.0,50000.0,,,"```json
+{
+  ""probability"": 0.1,
+  ""comment"": ""Without specific stock ticker information or committee details, the likelihood of a direct relationship is low.""
+}
+```"
+2025-06-25,2025-06-11,14,Suzan DelBene,Democrat,House,WA,SEATTLE CITY LIGHT,,sell,15000.0,50000.0,,,"```json
+{
+  ""probability"": 0.1,
+  ""comment"": ""Without specific stock ticker information or committee details, the likelihood of a relationship is low.""
+}
+```"
+2025-06-25,2025-06-11,14,Suzan DelBene,Democrat,House,WA,SPRING INDEPENDENT SCHOOL DISTRICT,,sell,15000.0,50000.0,,,"```json
+{
+  ""probability"": 0.1,
+  ""comment"": ""Without specific stock ticker information or committee details, the likelihood of a relationship is low.""
+}
+```"
+2025-06-25,2025-06-11,14,Suzan DelBene,Democrat,House,WA,TRIBOROUGH BRIDGE AND TUNNEL AUTHORITY,,sell,50000.0,100000.0,,,"```json
+{
+  ""probability"": 0.1,
+  ""comment"": ""Without specific stock ticker information or committee details, the likelihood of a relationship is low.""
+}
+```"
+2025-06-25,2025-06-11,14,Suzan DelBene,Democrat,House,WA,TEXAS TRANSPORTATION COMMISSION,,sell,50000.0,100000.0,,,"```json
+{
+  ""probability"": 0.1,
+  ""comment"": ""Without specific stock ticker information or committee details, the likelihood of a relationship is low.""
+}
+```"
+2025-06-25,2025-06-04,21,Suzan DelBene,Democrat,House,WA,UNIVERSITY OF TEXAS SYSTEM,,buy,250000.0,500000.0,,,"```json
+{
+  ""probability"": 0.1,
+  ""comment"": ""Without specific stock ticker information or committee details, the likelihood of a direct relationship is low.""
+}
+```"
+2025-06-25,2025-06-11,14,Suzan DelBene,Democrat,House,WA,STATE OF WISCONSIN,,sell,100000.0,250000.0,,,"```json
+{
+  ""probability"": 0.1,
+  ""comment"": ""Without specific stock ticker information or committee details, the likelihood of a relationship is low.""
+}
+```"
+2025-06-25,2025-06-11,14,Suzan DelBene,Democrat,House,WA,INDUSTRIAL DEVELOPMENT AUTHORITY OF WISE COUNTY,,sell,15000.0,50000.0,,,"```json
+{
+  ""probability"": 0.1,
+  ""comment"": ""Without specific stock ticker information or committee details, the likelihood of a relationship is low.""
+}
+```"
+2025-06-24,2025-05-20,35,Richard Blumenthal,Democrat,Senate,CT,Not Fade Away LLC,,buy,1000.0,15000.0,,,"```json
+{
+  ""probability"": 0.1,
+  ""comment"": ""There is insufficient information to establish a relationship between Richard Blumenthal and any specific stock or committee.""
+}
+```"
+2025-06-24,2025-05-21,34,Richard Blumenthal,Democrat,Senate,CT,ELCM2 LLC,,sell,50000.0,100000.0,,,"```json
+{
+  ""probability"": 0.1,
+  ""comment"": ""Without specific stock information or committee details, the likelihood of a significant relationship is low.""
+}
+```"
+2025-06-24,2025-05-21,34,Richard Blumenthal,Democrat,Senate,CT,ELCM2 LLC,,sell,1000.0,15000.0,,,"```json
+{
+  ""probability"": 0.1,
+  ""comment"": ""Without specific stock information or committee details, the likelihood of a significant relationship is low.""
+}
+```"
+2025-06-24,2025-05-27,28,Scott Peters,Democrat,House,CA,ALLOCATE ALPHA FUND II LP,,buy,15000.0,50000.0,,,"```json
+{
+  ""probability"": 0.1,
+  ""comment"": ""Without specific stock ticker information or committee details, the likelihood of a relationship is low.""
+}
+```"
+2025-06-24,2025-05-23,32,Scott Peters,Democrat,House,CA,ALLOCATE PREMIER ACCESS FUND LP,,buy,15000.0,50000.0,,,"```json
+{
+  ""probability"": 0.1,
+  ""comment"": ""Without specific stock ticker information or committee details, the likelihood of a relationship is low.""
+}
+```"
+2025-06-24,2025-05-21,34,Scott Peters,Democrat,House,CA,LYNETT CAPITAL PARTNERS III,,buy,100000.0,250000.0,,,"```json
+{
+  ""probability"": 0.1,
+  ""comment"": ""Without specific stock ticker information or committee details, the likelihood of a relationship is low.""
+}
+```"
+2025-06-24,2025-06-17,7,Marjorie Taylor Greene,Republican,House,GA,Lululemon Athletica Inc,LULU,sell,1000.0,15000.0,235.20,,"```json
+{
+  ""probability"": 0.2,
+  ""comment"": ""There is limited public information linking Marjorie Taylor Greene directly to Lululemon (LULU), suggesting a low likelihood of a significant relationship.""
+}
+```"
+2025-06-24,2025-06-17,7,Marjorie Taylor Greene,Republican,House,GA,Snowflake Inc,SNOW,buy,1000.0,15000.0,209.45,,"```json
+{
+  ""probability"": 0.1,
+  ""comment"": ""There is minimal evidence to suggest a direct relationship between Marjorie Taylor Greene and the stock ticker SNOW, as no known committee or subcommittee involvement has been established.""
+}
+```"
+2025-06-24,2025-06-17,7,Marjorie Taylor Greene,Republican,House,GA,Tractor Supply Co,TSCO,buy,1000.0,15000.0,50.98,,"```json
+{
+  ""probability"": 0.2,
+  ""comment"": ""There is limited public information linking Marjorie Taylor Greene directly to the stock ticker TSCO (Tractor Supply Company), suggesting a low likelihood of a relationship.""
+}
+```"
+2025-06-24,2025-05-15,40,Bill Keating,Democrat,House,MA,Microsoft Corp,MSFT,sell,1000.0,15000.0,,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Bill Keating may have some level of interest in Microsoft (MSFT) due to its significance in the tech industry, there is no direct evidence of a specific relationship or involvement with the company.""
+}
+```"
+2025-06-24,2025-06-09,15,Bill Keating,Democrat,House,MA,PepsiCo Inc,PEP,sell,1000.0,15000.0,,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Bill Keating may have some level of interaction with PepsiCo (PEP) due to his role in Congress, there is no direct evidence of a significant relationship between him and the company.""
+}
+```"
+2025-06-24,2025-05-23,32,Rob Bresnahan,Republican,House,PA,3M Co,MMM,sell,15000.0,50000.0,147.62,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""There is a low likelihood of a relationship as no specific committee or subcommittee information is provided, and the stock ticker 'MMM' (3M Company) does not directly correlate with known activities of Rob Bresnahan.""
+}
+```"
+2025-06-24,2025-05-29,26,Rob Bresnahan,Republican,House,PA,Arista Networks Inc,ANET,sell,1000.0,15000.0,86.37,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""There is a low likelihood of a relationship as there is no specific information linking Rob Bresnahan to the stock ticker ANET or relevant committees.""
+}
+```"
+2025-06-24,2025-06-13,11,Rob Bresnahan,Republican,House,PA,Chubb Ltd,CB,sell,1000.0,15000.0,286.79,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""There is a low likelihood of a relationship between Rob Bresnahan and the stock ticker CB, as no specific committee or subcommittee information is provided to suggest a direct connection.""
+}
+```"
+2025-06-24,2025-05-23,32,Rob Bresnahan,Republican,House,PA,Elastic N.V.,ESTC,sell,1000.0,15000.0,92.25,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""There is limited information available about Rob Bresnahan's involvement with ESTC, suggesting a low likelihood of a direct relationship.""
+}
+```"
+2025-06-24,2025-05-23,32,Rob Bresnahan,Republican,House,PA,Guidewire Software Inc,GWRE,sell,1000.0,15000.0,209.94,,"```json
+{
+  ""probability"": 0.2,
+  ""comment"": ""There is limited information connecting Rob Bresnahan to the stock ticker GWRE, suggesting a low likelihood of a direct relationship.""
+}
+```"
+2025-06-24,2025-06-02,22,Rob Bresnahan,Republican,House,PA,McDonald's Corp,MCD,sell,15000.0,50000.0,312.68,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Rob Bresnahan may have some connection to McDonald's (MCD) through legislative activities, there is insufficient information to establish a strong relationship without specific committee or subcommittee involvement.""
+}
+```"
+2025-06-24,2025-05-23,32,Rob Bresnahan,Republican,House,PA,NU HOLDINGS LTD,NU,sell,1000.0,15000.0,11.99,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""There is limited information available about Rob Bresnahan's involvement with the stock ticker NU, suggesting a low likelihood of a direct relationship.""
+}
+```"
+2025-06-24,2025-05-29,26,Rob Bresnahan,Republican,House,PA,NVIDIA Corporation,NVDA,buy,1000.0,15000.0,139.19,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Rob Bresnahan may have some connection to NVDA, there is insufficient information to establish a strong relationship without details on his committee or subcommittee involvement.""
+}
+```"
+2025-06-24,2025-05-23,32,Rob Bresnahan,Republican,House,PA,NVIDIA Corporation,NVDA,buy,1000.0,15000.0,131.29,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Rob Bresnahan may have some connection to NVDA, there is insufficient information to establish a strong relationship without details on his committee or subcommittee involvement.""
+}
+```"
+2025-06-24,2025-05-29,26,Rob Bresnahan,Republican,House,PA,OKTA Inc,OKTA,sell,1000.0,15000.0,106.63,,"```json
+{
+  ""probability"": 0.2,
+  ""comment"": ""There is limited information connecting Rob Bresnahan to OKTA, suggesting a low likelihood of a direct relationship.""
+}
+```"
+2025-06-24,2025-05-23,32,Rob Bresnahan,Republican,House,PA,Snowflake Inc,SNOW,buy,1000.0,15000.0,200.05,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Rob Bresnahan may have some connection to the stock ticker SNOW, there is insufficient information to establish a strong relationship without specific committee or subcommittee involvement.""
+}
+```"
+2025-06-24,2025-05-23,32,Rob Bresnahan,Republican,House,PA,Tesla Inc,TSLA,buy,1000.0,15000.0,339.34,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Rob Bresnahan may have some connection to Tesla (TSLA) through legislative interests, there is insufficient information to establish a strong relationship without specific committee or subcommittee involvement.""
+}
+```"
+2025-06-24,2025-05-29,26,Rob Bresnahan,Republican,House,PA,Veeva Systems Inc,VEEV,buy,1000.0,15000.0,279.04,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Rob Bresnahan may have some connection to Veeva Systems (VEEV), without specific committee or subcommittee information, the likelihood of a direct relationship remains low.""
+}
+```"
+2025-06-23,2025-05-12,42,Jefferson Shreve,Republican,House,IN,3M Co,MMM,sell,15000.0,50000.0,150.33,,"```json
+{
+  ""probability"": 0.2,
+  ""comment"": ""There is a low likelihood of a direct relationship between Congress member Jefferson Shreve and the stock ticker MMM, as no specific committee or subcommittee involvement is indicated.""
+}
+```"
+2025-06-23,2025-05-12,42,Jefferson Shreve,Republican,House,IN,Abbott Laboratories,ABT,sell,50000.0,100000.0,131.99,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Jefferson Shreve may have some connection to Abbott Laboratories (ABT) through legislative activities, there is insufficient information to establish a strong relationship.""
+}
+```"
+2025-06-23,2025-05-12,42,Jefferson Shreve,Republican,House,IN,Adobe Inc,ADBE,sell,15000.0,50000.0,395.94,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Jefferson Shreve may have interests in technology and finance, there is no direct evidence linking him to Adobe (ADBE) or relevant committees that would suggest a strong relationship.""
+}
+```"
+2025-06-23,2025-05-08,46,Jefferson Shreve,Republican,House,IN,Adobe Inc,ADBE,buy,15000.0,50000.0,383.99,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Jefferson Shreve may have interests in technology and finance, there is no direct evidence linking him to Adobe (ADBE) or relevant committees that would suggest a strong relationship.""
+}
+```"
+2025-06-23,2025-05-12,42,Jefferson Shreve,Republican,House,IN,Advanced Micro Devices Inc,AMD,sell,50000.0,100000.0,108.12,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Jefferson Shreve may have some relevance to technology and industry issues, there is no direct evidence of a specific relationship with AMD.""
+}
+```"
+2025-06-23,2025-05-08,46,Jefferson Shreve,Republican,House,IN,Advanced Micro Devices Inc,AMD,buy,15000.0,50000.0,101.70,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Jefferson Shreve may have interests in technology and semiconductor industries, there is no direct evidence of a relationship with AMD without specific committee or subcommittee affiliations.""
+}
+```"
+2025-06-23,2025-05-12,42,Jefferson Shreve,Republican,House,IN,Agilent Technologies Inc,A,sell,15000.0,50000.0,115.55,,"```json
+{
+  ""probability"": 0.2,
+  ""comment"": ""There is insufficient information to establish a clear relationship between Congress member Jefferson Shreve and stock ticker A.""
+}
+```"
+2025-06-23,2025-05-12,42,Jefferson Shreve,Republican,House,IN,AKAMAI TECHNOLOGIES Inc,AKAM,sell,15000.0,50000.0,78.79,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Jefferson Shreve may have interests in technology and telecommunications, there is no direct evidence of a relationship with Akamai Technologies (AKAM) based on available information.""
+}
+```"
+2025-06-23,2025-05-12,42,Jefferson Shreve,Republican,House,IN,Albemarle Corp,ALB,sell,15000.0,50000.0,61.57,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Jefferson Shreve may have interests in issues related to the stock ticker ALB, there is insufficient information to establish a direct relationship between him and the company.""
+}
+```"
+2025-06-23,2025-05-12,42,Jefferson Shreve,Republican,House,IN,Alnylam Pharmaceuticals Inc,ALNY,sell,15000.0,50000.0,270.19,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Jefferson Shreve may have interests in biotechnology, the specific connection to Alnylam Pharmaceuticals (ALNY) is not well-documented, leading to a moderate probability of relationship.""
+}
+```"
+2025-06-23,2025-05-12,42,Jefferson Shreve,Republican,House,IN,Alphabet Inc,GOOGL,sell,100000.0,250000.0,158.46,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Jefferson Shreve may have interests in technology and business, there is no direct evidence of a relationship with GOOGL or relevant committee involvement.""
+}
+```"
+2025-06-23,2025-05-12,42,Jefferson Shreve,Republican,House,IN,Alphabet Inc,GOOGL,sell,100000.0,250000.0,159.58,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Jefferson Shreve may have interests in technology and business, there is no direct evidence of a relationship with GOOGL or its related committees.""
+}
+```"
+2025-06-23,2025-05-12,42,Jefferson Shreve,Republican,House,IN,Amazon.com Inc,AMZN,sell,250000.0,500000.0,208.64,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Jefferson Shreve may have some interest in Amazon (AMZN) as a major company, there is no direct evidence of a specific relationship or involvement with relevant committees or subcommittees.""
+}
+```"
+2025-06-23,2025-05-08,46,Jefferson Shreve,Republican,House,IN,American Eagle Outfitters Inc,AEO,buy,15000.0,50000.0,11.35,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Jefferson Shreve may have interests in various sectors, there is no direct evidence linking him to the stock ticker AEO or relevant committee activities.""
+}
+```"
+2025-06-23,2025-05-12,42,Jefferson Shreve,Republican,House,IN,American Eagle Outfitters Inc,AEO,sell,15000.0,50000.0,12.07,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Jefferson Shreve may have interests in various sectors, there is no direct evidence linking him to the AEO stock or relevant committees.""
+}
+```"
+2025-06-23,2025-05-12,42,Jefferson Shreve,Republican,House,IN,American Express Co,AXP,sell,15000.0,50000.0,298.92,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Jefferson Shreve may have some connection to financial matters, there is no direct evidence linking him to American Express (AXP) or relevant committees/subcommittees.""
+}
+```"
+2025-06-23,2025-05-08,46,Jefferson Shreve,Republican,House,IN,American Express Co,AXP,buy,15000.0,50000.0,283.66,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Jefferson Shreve may have some connection to financial matters, there is no direct evidence linking him to American Express (AXP) or relevant committees/subcommittees.""
+}
+```"
+2025-06-23,2025-05-12,42,Jefferson Shreve,Republican,House,IN,American International Group Inc,AIG,sell,15000.0,50000.0,83.47,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Jefferson Shreve may have some connection to financial matters, there is no direct evidence linking him to AIG or relevant committees that would suggest a strong relationship.""
+}
+```"
+2025-06-23,2025-05-12,42,Jefferson Shreve,Republican,House,IN,American Tower Corp,AMT,sell,15000.0,50000.0,207.92,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Jefferson Shreve may have interests in telecommunications or infrastructure, there is no direct evidence linking him to American Tower Corporation (AMT) or its specific legislative activities.""
+}
+```"
+2025-06-23,2025-05-12,42,Jefferson Shreve,Republican,House,IN,American Water Works Company Inc,AWK,sell,15000.0,50000.0,138.64,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Jefferson Shreve may have some connection to water utility issues relevant to AWK (American Water Works Company), there is insufficient information to establish a strong relationship without specific committee or subcommittee details.""
+}
+```"
+2025-06-23,2025-05-12,42,Jefferson Shreve,Republican,House,IN,Amgen Inc,AMGN,sell,15000.0,50000.0,274.76,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Jefferson Shreve may have some connection to the pharmaceutical industry represented by AMGN, there is insufficient information to establish a strong relationship without specific committee or subcommittee involvement.""
+}
+```"
+2025-06-23,2025-05-12,42,Jefferson Shreve,Republican,House,IN,Analog Devices Inc,ADI,sell,15000.0,50000.0,223.15,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Jefferson Shreve may have some connection to the stock ticker ADI, there is insufficient information to establish a strong relationship without specific committee or subcommittee involvement.""
+}
+```"
+2025-06-23,2025-05-08,46,Jefferson Shreve,Republican,House,IN,Aon PLC,AON,sell,15000.0,50000.0,357.11,,"```json
+{
+  ""probability"": 0.2,
+  ""comment"": ""There is a low likelihood of a direct relationship between Congress member Jefferson Shreve and the stock ticker AON, as no specific committee or subcommittee involvement is indicated.""
+}
+```"
+2025-06-23,2025-05-08,46,Jefferson Shreve,Republican,House,IN,Apple Inc,AAPL,sell,500000.0,1000000.0,197.49,,"```json
+{
+  ""probability"": 0.2,
+  ""comment"": ""While Jefferson Shreve may have interests in technology and finance, there is no direct evidence linking him to Apple Inc. (AAPL) or relevant committees that would suggest a strong relationship.""
+}
+```"
+2025-06-23,2025-05-12,42,Jefferson Shreve,Republican,House,IN,Apple Inc,AAPL,sell,100000.0,250000.0,210.79,,"```json
+{
+  ""probability"": 0.2,
+  ""comment"": ""While Jefferson Shreve may have interests in technology and finance, there is no direct evidence linking him to Apple Inc. (AAPL) or relevant committees that would suggest a strong relationship.""
+}
+```"
+2025-06-23,2025-05-08,46,Jefferson Shreve,Republican,House,IN,Applied Materials Inc,AMAT,sell,50000.0,100000.0,156.00,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Jefferson Shreve may have interests in technology and manufacturing sectors, there is no direct evidence linking him to AMAT or relevant committees.""
+}
+```"
+2025-06-23,2025-05-12,42,Jefferson Shreve,Republican,House,IN,Applied Materials Inc,AMAT,sell,50000.0,100000.0,167.99,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Jefferson Shreve may have interests in technology and semiconductor industries, there is no direct evidence of a specific relationship with AMAT (Applied Materials, Inc.) without additional context on his committee or subcommittee affiliations.""
+}
+```"
+2025-06-23,2025-05-12,42,Jefferson Shreve,Republican,House,IN,APPLOVIN CORP,APP,sell,15000.0,50000.0,347.90,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Jefferson Shreve may have interests in various sectors, there is insufficient information to establish a direct relationship with the stock ticker APP.""
+}
+```"
+2025-06-23,2025-05-12,42,Jefferson Shreve,Republican,House,IN,Aptiv PLC,APTV,sell,15000.0,50000.0,66.93,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Jefferson Shreve may have interests in automotive or technology sectors related to APTV, there is no direct evidence of a specific relationship between him and the company.""
+}
+```"
+2025-06-23,2025-05-08,46,Jefferson Shreve,Republican,House,IN,Aptiv PLC,APTV,sell,15000.0,50000.0,61.11,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Jefferson Shreve may have interests in automotive or technology sectors related to APTV, there is no direct evidence of a specific relationship between him and the company.""
+}
+```"
+2025-06-23,2025-05-12,42,Jefferson Shreve,Republican,House,IN,Arch Capital Group Ltd,ACGL,sell,15000.0,50000.0,94.63,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""There is a low likelihood of a direct relationship between Congress member Jefferson Shreve and the stock ticker ACGL without additional context regarding committee assignments or relevant legislation.""
+}
+```"
+2025-06-23,2025-05-12,42,Jefferson Shreve,Republican,House,IN,Ares Management Corp,ARES,sell,50000.0,100000.0,172.57,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Jefferson Shreve may have interests in financial matters, there is no direct evidence linking him to the ARES stock or relevant committees.""
+}
+```"
+2025-06-23,2025-05-12,42,Jefferson Shreve,Republican,House,IN,Arista Networks Inc,ANET,sell,50000.0,100000.0,92.32,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Jefferson Shreve may have interests in technology and networking sectors, there is no direct evidence linking him to Arista Networks (ANET) or relevant committees that would suggest a strong relationship.""
+}
+```"
+2025-06-23,2025-05-12,42,Jefferson Shreve,Republican,House,IN,AT&T Inc,T,sell,15000.0,50000.0,27.01,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Jefferson Shreve may have some influence over telecommunications policy, the direct relationship with the stock ticker 'T' (AT&T) is not strongly established without specific committee or subcommittee involvement.""
+}
+```"
+2025-06-23,2025-05-12,42,Jefferson Shreve,Republican,House,IN,AUTODESK Inc,ADSK,sell,15000.0,50000.0,293.20,,"```json
+{
+  ""probability"": 0.2,
+  ""comment"": ""There is a low likelihood of a direct relationship between Congress member Jefferson Shreve and the stock ticker ADSK, as no specific committee or subcommittee involvement is provided.""
+}
+```"
+2025-06-23,2025-05-12,42,Jefferson Shreve,Republican,House,IN,Automatic Data Processing Inc,ADP,sell,50000.0,100000.0,309.38,,"```json
+{
+  ""probability"": 0.2,
+  ""comment"": ""There is a low likelihood of a direct relationship between Congress member Jefferson Shreve and the stock ticker ADP, as no specific committee or subcommittee involvement is provided.""
+}
+```"
+2025-06-23,2025-05-12,42,Jefferson Shreve,Republican,House,IN,AutoZone Inc,AZO,sell,50000.0,100000.0,"3,664.25",,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Jefferson Shreve may have some connection to the automotive industry, there is no direct evidence linking him to AutoZone (AZO) or relevant committees.""
+}
+```"
+2025-06-23,2025-05-12,42,Jefferson Shreve,Republican,House,IN,Axon Enterprise Inc,AXON,sell,15000.0,50000.0,693.10,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Jefferson Shreve may have interests in technology and public safety, there is no direct evidence linking him to Axon Enterprises or its stock activities.""
+}
+```"
+2025-06-23,2025-05-12,42,Jefferson Shreve,Republican,House,IN,BALL CORPORATION,BALL,sell,15000.0,50000.0,53.23,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Jefferson Shreve may have some connection to the stock ticker BALL, there is insufficient information to establish a strong relationship between the two.""
+}
+```"
+2025-06-23,2025-05-08,46,Jefferson Shreve,Republican,House,IN,BALL CORPORATION,BALL,sell,15000.0,50000.0,51.78,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Jefferson Shreve may have some influence in Congress, there is no direct evidence linking him to the stock ticker BALL or relevant committee activities.""
+}
+```"
+2025-06-23,2025-05-08,46,Jefferson Shreve,Republican,House,IN,Bank of America Corp,BAC,buy,15000.0,50000.0,41.60,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Jefferson Shreve may have some connection to financial matters, there is no direct evidence linking him to Bank of America (BAC) or relevant committees.""
+}
+```"
+2025-06-23,2025-05-12,42,Jefferson Shreve,Republican,House,IN,Bank of America Corp,BAC,sell,15000.0,50000.0,43.36,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Jefferson Shreve may have some connection to financial matters, there is no direct evidence linking him to Bank of America (BAC) or relevant committees.""
+}
+```"
+2025-06-23,2025-05-12,42,Jefferson Shreve,Republican,House,IN,Berkshire Hathaway Inc,BRK/B,sell,100000.0,250000.0,514.30,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Jefferson Shreve may have some connection to financial matters, there is no direct evidence linking him to Berkshire Hathaway (BRK/B) or relevant committees/subcommittees.""
+}
+```"
+2025-06-23,2025-05-12,42,Jefferson Shreve,Republican,House,IN,Blackrock Inc,BLK,sell,50000.0,100000.0,958.03,,"```json
+{
+  ""probability"": 0.3,
+  ""comment"": ""While Jefferson Shreve may have interests in financial matters, there is no direct evidence linking him to BlackRock (BLK) or relevant committees/subcommittees.""
+}
+```"

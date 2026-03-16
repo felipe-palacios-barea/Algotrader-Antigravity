@@ -1,0 +1,31 @@
+Create class indicators LT
+Create class indicators ST
+Create class indicators MT
+
+Create subclass for indicators weights and variables by industry and if space permits for individual stocks 
+	"create basket of stocks of interest for backtesting on them"
+	"it would be wise to also save in here the results/predictions from filter indicators for individual stocks as_
+	such info will be usefull for efficiently backtesting"
+
+%% Filter for LT indicators
+filter = 0 "filter var to check if it passes cutoff from indicators"
+For each indicator
+	if class indicator x > cutoff Then
+		add element to cutoff array t for indicator x
+		filter += 1 
+		
+	elseif
+		add element to waste array t for indicator x"we will use this to backtest filter 1 later on"
+check condition for filter var cutoff
+
+%% Backtest for LT indicators
+for each industry and stock in subclass
+	if direction of stock t-1 = direction of prediction t-1
+		evaluate accuracy and give bonus or reduction based on findings
+	else 
+		reduce weight/adjust variables
+
+
+
+
+
