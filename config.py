@@ -80,3 +80,11 @@ COMMITTEES_CSV_PATH = Path(__file__).parent / 'committees.csv'
 
 # === HTTP Settings ===
 REQUEST_TIMEOUT = int(os.getenv("REQUEST_TIMEOUT", "10"))  # seconds
+
+# === Political Intelligence Pipeline ===
+CONGRESS_GOV_API_KEY = os.getenv("CONGRESS_GOV_API_KEY", "")            # Free from api.data.gov
+THREADS_ACCESS_TOKEN = os.getenv("THREADS_ACCESS_TOKEN", "")             # From Meta Developer Portal
+POLITICAL_INTELLIGENCE_DB = BASE_DIR / "political_intelligence.db"
+MEMBER_HANDLES_CSV = BASE_DIR / "member_handles.csv"
+INTELLIGENCE_FETCH_DAYS_BACK = int(os.getenv("INTELLIGENCE_FETCH_DAYS_BACK", "30"))
+INTELLIGENCE_PAUSE_SEC = float(os.getenv("INTELLIGENCE_PAUSE_SEC", "2.0"))

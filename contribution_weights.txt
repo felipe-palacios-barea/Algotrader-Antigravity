@@ -1,0 +1,8 @@
+Feature Contribution Weights for Stock Success Prediction
+========================================================
+
+Stock Recent Performance (Avg Pct): 67.80%
+Stock Volatility (Avg Std): 24.70%
+Politician Alpha History: 7.45%
+Trade Conviction (LLM/Prob): 0.03%
+Trade Size (Amount): 0.02%

@@ -18,10 +18,24 @@ Analysis_full.xlsx
 trades.csv
 historical_trades.csv
 enriched_trades.csv
+enriched_trades_enriched.csv
+enriched_trades_political.csv
+politician_alpha_metrics.csv
+active_portfolio_ledger.csv
+
+# Databases
+*.db
+*.sqlite
+
+# Machine Learning models/data
+*.pt
+*.pth
+*.pkl
 
 # Large data subdirectories (21MB+)
 Trades full datos/
 Ultima prueba/
+docs/202*  # Data-heavy logs
 
 # Virtual environments
 venv/

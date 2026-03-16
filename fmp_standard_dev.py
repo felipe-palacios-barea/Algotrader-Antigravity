@@ -142,7 +142,10 @@ def augment_price_change(
     momentum_map: dict[str, Optional[float]] = {}
 
     # Fetch data per ticker
-    for t in tickers:
+    print(f"Fetching price data/momentum for {len(tickers)} tickers...")
+    for i, t in enumerate(tickers):
+        if i % 10 == 0:
+            print(f"  [{i}/{len(tickers)}] Ticker: {t}")
         hist = fetch_historical_prices(t, days=5)
         hist_map[t] = hist
         
@@ -173,10 +176,20 @@ def augment_price_change(
             return pd.Series(pct_changes).std()
         return pd.NA
 
+    def compute_std_away(row):
+        curr = row.get('Current_Price')
+        hist = hist_map.get(row['Ticker'], [])
+        if pd.notna(curr) and len(hist) >= 2:
+            mean_p = sum(hist) / len(hist)
+            std_p = pd.Series(hist).std()
+            if std_p and std_p > 0:
+                return (curr - mean_p) / std_p
+        return pd.NA
+
     df['Current_Price'] = df.apply(compute_current_price, axis=1)
     df['Pct_Change'] = df.apply(compute_pct, axis=1)
     df['Std_Dev'] = df.apply(compute_std, axis=1)
-    df['Std_Dev_Away'] = pd.NA
+    df['Std_Dev_Away'] = df.apply(compute_std_away, axis=1)
     df['Sector_Momentum'] = df['Ticker'].map(momentum_map)
 
     # Save updated DataFrame

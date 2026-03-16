@@ -9,7 +9,7 @@ import os
 import time
 from pathlib import Path
 import pandas as pd
-import requests
+import yfinance as yf
 from config import ENRICHED_TRADES_CSV_PATH
 
 # Polite pause between API calls
@@ -19,20 +19,16 @@ time_sleep = 0.5
 FMP_API_KEY = os.getenv('FMP_API_KEY', '')
 
 
-def fetch_recommendation_fmp(ticker: str) -> str:
+def fetch_recommendation_yf(ticker: str) -> str:
     """
-    Fetch the latest analyst rating for the given ticker from FinancialModelingPrep.
+    Fetch the latest analyst rating for the given ticker from yfinance.
     Returns rating string (e.g., 'buy', 'hold', 'sell') or 'N/A' on error.
     """
-    if not FMP_API_KEY:
-        return 'N/A'
-    url = f"https://financialmodelingprep.com/api/v3/rating/{ticker.upper()}"
-    params = {'apikey': FMP_API_KEY}
     try:
-        resp = requests.get(url, params=params, timeout=5)
-        data = resp.json()
-        if isinstance(data, list) and data:
-            return data[0].get('rating', 'N/A') or 'N/A'
+        stock = yf.Ticker(ticker)
+        # info.get('recommendationKey') is often the most reliable way to get a single label
+        info = stock.info
+        return info.get('recommendationKey', 'N/A')
     except Exception:
         pass
     return 'N/A'
@@ -51,8 +47,11 @@ def augment_recommendations(
     tickers = df['Ticker'].dropna().unique()
 
     rec_map = {}
-    for t in tickers:
-        rec_map[t] = fetch_recommendation_fmp(t)
+    print(f"Fetching recommendations for {len(tickers)} tickers...")
+    for i, t in enumerate(tickers):
+        if i % 10 == 0:
+            print(f"  [{i}/{len(tickers)}] Ticker: {t}")
+        rec_map[t] = fetch_recommendation_yf(t)
         time.sleep(sleep_sec)
 
     df['Recommendation'] = df['Ticker'].map(rec_map).fillna('N/A')
